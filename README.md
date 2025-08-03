@@ -43,9 +43,6 @@ As a **data analyst**, your task is to **analyze sales data** and **recommend th
 - **Customer Segmentation by City**  
   ➤ Count the number of unique customers who purchased coffee in each city.
 
-- **Impact of Estimated Rent on Sales**  
-  ➤ Calculate average sales per customer and average rent per customer for each city.
-
 ---
 
 ### 🔴 Advanced Level
