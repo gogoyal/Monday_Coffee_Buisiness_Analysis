@@ -47,8 +47,6 @@ As a **data analyst**, your task is to **analyze sales data** and **recommend th
 
 ### 🔴 Advanced Level
 
-- **Monthly Sales Growth**  
-  ➤ Calculate the percentage growth or decline in monthly sales over time.
 
 - **Market Potential Analysis**  
   ➤ Identify top 3 cities based on:
